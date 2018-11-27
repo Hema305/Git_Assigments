@@ -1,0 +1,16 @@
+git init
+git add file1.txt
+git status
+git commmit -m "adds file"
+git branch 
+git checkout -b newbranch
+git status
+git mv file1.text new.txt
+git commit -am "adds new file"
+git branch --no-merged
+git log
+git checkout master
+git branch merged
+git branch
+git merge newbranch
+git log
